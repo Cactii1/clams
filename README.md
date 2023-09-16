@@ -3,6 +3,10 @@ Clam development tree
 
 Clam is a PoS-based cryptocurrency.
 
+*** Note ***
+The best release to be able to sync a node is a Release Candidate. It may have still have some bugs, but you'll be able to sync a node from scratch.
+It can be found at: https://github.com/nochowderforyou/clams/releases/tag/v2.1.0-beta.1
+
 Development process
 ===========================
 
