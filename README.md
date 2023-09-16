@@ -3,6 +3,10 @@ Clam development tree
 
 Clam is a PoS-based cryptocurrency.
 
+Usable version
+===========================
+The official release doesn't sync the blockchain in a reasonable amount of time. Please use: https://github.com/nochowderforyou/clams/releases/tag/v2.1.0-beta.1
+
 Development process
 ===========================
 
